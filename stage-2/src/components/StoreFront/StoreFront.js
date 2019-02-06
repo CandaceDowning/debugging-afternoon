@@ -17,6 +17,7 @@ class StoreFront extends Component {
                 this.setState({
                     products: response.data
                 })
+                
             })
     }
 
